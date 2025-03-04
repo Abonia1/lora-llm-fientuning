@@ -8,6 +8,7 @@ Large Language Models (LLMs) require extensive computational resources for fine-
 This repository presents a collection of LoRA variants, each designed to optimize model fine-tuning in different scenarios. Below is an in-depth explanation of each variant and how they contribute to efficient model training.
 
 ---
+![LoRA variants](https://github.com/Abonia1/lora-llm-fientuning/blob/main/lora-llm-finetuning)
 
 ## 🚀 LoRA Variants
 
